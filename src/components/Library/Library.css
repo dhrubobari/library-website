@@ -8,3 +8,9 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
+
+.name-of-book {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 0px;
+    font-size: 21px;
+}
