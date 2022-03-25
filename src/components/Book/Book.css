@@ -1,0 +1,13 @@
+.book img {
+    width: 220px;
+    height: 290px;
+    margin: 6px;
+}
+
+.book {
+    width: 300px;
+    height: 465px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    position: relative;
+}

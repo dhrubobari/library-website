@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  color:mediumslateblue;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 23px;
+}

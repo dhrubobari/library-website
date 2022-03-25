@@ -1,0 +1,73 @@
+[
+    {
+      "id": "book-1",
+      "name": "FAST BREAK",
+      "author": "Mike Lupica",
+      "price": 8.99,
+      "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429722206l/23846031.jpg",
+      "quantity": 0
+    },
+    {
+        "id": "book-2",
+        "name": "Great Expectations",
+        "author": "Charles Dickens",
+        "price": 6.30,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432l/2623._SY475_.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "book-3",
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 6.00,
+        "img": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4351/9781435159631.jpg",
+        "quantity": 0
+      },
+    {
+      "id": "book-4",
+      "name": "Ulysses",
+      "author": "James Joyce",
+      "price": 0.99,
+      "img": "https://comlib.org/wp-content/uploads/2021/07/Ulysses-Book-Cover.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "book-5",
+      "name": "Hamlet",
+      "author": "William Shakespeare",
+      "price": 5.35,
+      "img": "https://4.bp.blogspot.com/-QR34BqjNtiY/VjjQRIUv2PI/AAAAAAAABNU/MYGwukm7NBo/s1600/img083.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "book-6",
+      "name": "Despair",
+      "author": "Vladimir Nabokov",
+      "price": 4.38,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41DIPCNQquS._SX367_BO1,204,203,200_.jpg",
+      "quantity": 0
+    },
+    {
+        "id": "book-7",
+        "name": "The eyes of darkness",
+        "price": 9.99,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630571296l/32443._SY475_.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "book-8",
+        "name": "The Shining",
+        "author": "Stephen King",
+        "price": 7.99,
+        "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Shiningnovel.jpg",
+        "quantity": 0
+      },
+    {
+      "id": "book-9",
+      "name": "The Trial",
+      "author": "Franz Kafka",
+      "price": 4.00,
+      "img": "https://i.pinimg.com/236x/d3/2f/f1/d32ff140935048250cc176d0b5ea3c6c--franz-book-design.jpg",
+      "quantity": 0
+    }
+]
