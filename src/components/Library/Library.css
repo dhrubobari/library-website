@@ -28,6 +28,14 @@
     border-radius: 5px;
 }
 
+.button-cart1:hover{
+    background-color: green;
+}
+
+.button-cart2:hover{
+    background-color: #D0312D;
+}
+
 .button-cart2{
     width: 60%;
     color: white;

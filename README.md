@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# My Project Name: lucky-one-dhrubobari
+# My live site link: (https://lucky-semifreddo-192c6a.netlify.app);
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
