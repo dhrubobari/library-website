@@ -5,9 +5,27 @@
 }
 
 .book {
-    width: 270px;
+    width: 290px;
     height: 465px;
+    margin: 10px;
     border: 1px solid gray;
-    border-radius: 3px;
+    border-radius: 10px;
     position: relative;
+}
+
+.button-cart {
+    color: blue;
+    background-color: #ffff66;
+    border: 1px solid silver;
+    width: 70%;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
+
+.button-cart p {
+    margin-top: 14px;
+    margin: 3px;
 }

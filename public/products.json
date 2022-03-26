@@ -11,7 +11,7 @@
         "id": "book-2",
         "name": "Great Expectations",
         "author": "Charles Dickens",
-        "price": 6.30,
+        "price": 6.35,
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432l/2623._SY475_.jpg",
         "quantity": 0
       },
@@ -50,6 +50,7 @@
     {
         "id": "book-7",
         "name": "The eyes of darkness",
+        "author": "Dean Koontz",
         "price": 9.99,
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630571296l/32443._SY475_.jpg",
         "quantity": 0
